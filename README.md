@@ -1,5 +1,3 @@
-# Weather App🌥️
-
 ## Overview
 
 This Weather App is a simple web application that allows users to check the current weather conditions for a specific location. The app utilizes a weather API to fetch real-time weather data and displays it in a user-friendly interface.
@@ -22,6 +20,11 @@ Follow these steps to set up and run the Weather App on your local machine:
 1. **Node.js:** Ensure that Node.js is installed on your machine. You can download it from [https://nodejs.org/](https://nodejs.org/).
 
 2. **API Key:** Obtain a free API key from a weather API provider. This app uses the OpenWeatherMap API, and you can get a key by signing up at [https://openweathermap.org/api](https://openweathermap.org/api).
+
+   ## Demo:
+
+   ![Weathr](https://github.com/RSN601KRI/weatherap/assets/106860359/e9a56a0a-b5ee-4cd3-a081-26b0f64cd53a)
+
 
 ### Setup
 
